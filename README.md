@@ -63,4 +63,4 @@ This lab was designed solely for educational purposes to develop defensive cyber
 The following screenshot shows passive network device discovery performed during the lab.  
 All sensitive information has been sanitized.
 
-![Bettercap Device Discovery](bettercap.note.show.png)
+![Bettercap note show](bettercap.note.show.png)
