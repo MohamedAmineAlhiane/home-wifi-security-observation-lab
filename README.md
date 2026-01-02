@@ -64,3 +64,8 @@ The following screenshot shows passive network device discovery performed during
 All sensitive information has been sanitized.
 
 ![bettercap.note.show](bettercap.note.show.png)
+
+## Conclusion
+This project provided a practical introduction to passive network security observation within a private home Wi-Fi environment. Through controlled and ethical monitoring, it was possible to identify connected devices, observe normal communication patterns, and interpret common network behaviors using industry-standard tools.
+
+The lab reinforced the importance of understanding baseline network activity before attempting to detect anomalies or security issues. This foundational knowledge is essential for defensive cybersecurity roles and serves as a strong starting point for more advanced network security analysis in the future.
